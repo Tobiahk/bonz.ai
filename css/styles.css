@@ -1,4 +1,20 @@
 body {
     background-color: #242824;
     color: white;
+    font-family: outfit;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.container p {
+    width: 50%;
+    background-color: aliceblue;
+}
+
+.container img {
+    width: 50%;
+    background-color: aliceblue;
 }
