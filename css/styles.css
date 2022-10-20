@@ -21,6 +21,7 @@ h1 {
     padding: 0;
     padding-left: 16px;
     padding-top: 16px;
+    padding-bottom: 6px;
 }
 
 p {
@@ -59,7 +60,7 @@ p {
 .nav a {
     color: white;
     text-decoration: none;
-    font-size: larger;
+    font-size: x-large;
     padding-right: 16px;
 }
 
@@ -83,7 +84,7 @@ header .nav {
 
 .container img {
     width: 90%;
-    padding: 16px;
+    padding-top: 26px;
 }
 
 .content {
