@@ -19,7 +19,7 @@ header {
 h1 {
     margin: 0;
     padding: 0;
-    padding-left: 16px;
+    /* padding-left: 16px; */
     padding-top: 16px;
     padding-bottom: 6px;
 }
@@ -29,6 +29,9 @@ p {
     padding: 0;
 }
 
+.title {
+    padding-left: 16px;
+}
 
 .header-container {
     display: flex;
